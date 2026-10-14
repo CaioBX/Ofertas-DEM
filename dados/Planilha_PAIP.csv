@@ -1,0 +1,588 @@
+CURSO,Ano,Semestre,Disciplina,Código,Professor,TURMA,CH,Natureza,PPC
+Engenharia Mecânica,2021,1,MOTORES DE COMBUSTÃO INTERNA,TE0325,ANDRE VALENTE BUENO,1A,64h,Optativa,Antigo
+Engenharia Mecânica,2021,1,Elementos de Máquinas I,TE0164,CARLOS ANDRE DIAS BEZERRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,1,Mecanismos,TE0161,CARLOS ANDRE DIAS BEZERRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,1,Mecanismos,TE0161,CARLOS ANDRE DIAS BEZERRA,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,1,Máquinas de Fluxo,TE0154,CLAUS FRANZ WEHMANN,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,1,"TÓPICOS ESPECIAIS EM ENGENHARIA
+ TÓPICOS ESPECIAIS EM ENGENHARIA MECÂNICA IV",TE0188,CLODOALDO DE OLIVEIRA CARVALHO FILHO,2,64h,Optativa,Antigo
+Engenharia Mecânica,2021,1,Transmissão de Calor,TE0158,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1,96h,Obrigatória,Antigo
+Engenharia Mecânica,2021,1,Desenho de Máquinas e Instalações,TE0262,EDILSON DIAS SIQUEIRA,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,1,Desenho de Máquinas e Instalações,TE0262,EDILSON DIAS SIQUEIRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,1,Elementos de Máquinas I,TE0164,EDILSON DIAS SIQUEIRA,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,1,MECANISMOS HIDRÁULICOS E PNEUMATICOS,TE0228,FRANCISCO ELICIVALDO LIMA,1,64h,Optativa,Antigo
+Engenharia Mecânica,2021,1,Processos de Conformação Plástica,TE0166,FRANCISCO ELICIVALDO LIMA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,1,"TÓPICOS ESPECIAIS EM ENGENHARIA
+ MECÂNICA III",TE0187,FRANCISCO ELICIVALDO LIMA,1,64h,Optativa,Antigo
+Engenharia Mecânica,2021,1,Mecânica dos Sólidos I,TE0156,FRANCISCO ILSON DA SILVA JUNIOR,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,1,MECANISMOS APLICADOS,TE0265,FRANCISCO ILSON DA SILVA JUNIOR,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,1,Introdução à Engenharia Mecânica,TE0045,LUIZ SOARES JUNIOR,1,32h,Obrigatória,Antigo
+Engenharia Mecânica,2021,1,Manutenção de Equipamentos Industriais,TE0169,LUIZ SOARES JUNIOR,1,32h,Obrigatória,Antigo
+Engenharia Mecânica,2021,1,Processos de Conformação Plástica,TE0166,LUIZ SOARES JUNIOR,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,1,"TÓPICOS ESPECIAIS EM ENGENHARIA
+ TÓPICOS ESPECIAIS EM ENGENHARIA MECÂNICA IV",TE0188,LUIZ SOARES JUNIOR,1,64h,Optativa,Antigo
+Engenharia Mecânica,2021,1,Termodinâmica Aplicada,TE0137,MARIA ALEXSANDRA DE SOUSA RIOS,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,1,Elementos de Máquinas II,TE0165,PIERRE MAURICE CHRISTOPHE LAMARY,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,1,Elementos de Máquinas II,TE0165,MATHEUS HENRIQUE PIRES MIRANDA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,1,Elementos Finitos para Engenharia Mecânica I,TE0201,MATHEUS HENRIQUE PIRES MIRANDA,1,64h,Optativa,Antigo
+Engenharia Mecânica,2021,1,Elementos Finitos para Engenharia Mecânica I,TE0201,PIERRE MAURICE CHRISTOPHE LAMARY,1,64h,Optativa,Antigo
+Engenharia Mecânica,2021,1,Termodinâmica Aplicada,TE0137,MONICA CASTELO GUIMARAES ALBUQUERQUE,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,1,Dinâmica das Máquinas,TE0163,ROBERTO DE ARAUJO BEZERRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,1,Dinâmica das Máquinas,TE0163,ROBERTO DE ARAUJO BEZERRA,3,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,1,Estática dos Sistemas Mecânicos,TE0251,ROBERTO DE ARAUJO BEZERRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,1,Estática dos Sistemas Mecânicos,TE0251,ROMULO DO NASCIMENTO RODRIGUES,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,1,Mecânica dos Sólidos I,TE0156,ROMULO DO NASCIMENTO RODRIGUES,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,2,Motores Térmicos,TE0162,ANDRE VALENTE BUENO,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,2,Elementos de Máquinas II,TE0165,CARLOS ANDRE DIAS BEZERRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,2,Dinâmica dos Fluidos,TE0138,CLAUS FRANZ WEHMANN,1,96h,Obrigatória,Antigo
+Engenharia Mecânica,2021,2,Refrigeração e Condicionamento de Ar,TE0167,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,2,Elementos de Máquinas I,TE0164,EDILSON DIAS SIQUEIRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,2,Elementos de Máquinas II,TE0165,EDILSON DIAS SIQUEIRA,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,2,Transportadores Industriais,TE0208,EDILSON DIAS SIQUEIRA,1,64h,Optativa,Antigo
+Engenharia Mecânica,2021,2,Manutenção de Equipamentos Industriais,TE0169,FRANCISCO ELICIVALDO LIMA,1,32h,Obrigatória,Antigo
+Engenharia Mecânica,2021,2,Manutenção de Equipamentos Industriais,TE0169,FRANCISCO ELICIVALDO LIMA,3,32h,Obrigatória,Antigo
+Engenharia Mecânica,2021,2,Processos Tradicionais de Usinagem,TE0170,FRANCISCO ELICIVALDO LIMA,2A,48h,Obrigatória,Antigo
+Engenharia Mecânica,2021,2,Fundição e Soldagem,TE0159,LUIZ SOARES JUNIOR,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,2,Metrologia e Avaliação Dimensional,TE0140,LUIZ SOARES JUNIOR,1A,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,2,Motores Térmicos,TE0162,MARIA ALEXSANDRA DE SOUSA RIOS,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,2,"TÓPICOS ESPECIAIS EM ENGENHARIA
+ TÓPICOS ESPECIAIS EM ENGENHARIA MECÂNICA IV",TE0188,MARIA ALEXSANDRA DE SOUSA RIOS,1,64h,Optativa,Antigo
+Engenharia Mecânica,2021,2,Dinâmica dos Sistemas Mecânicos,TE0139,MATHEUS HENRIQUE PIRES MIRANDA,3,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,2,Mecânica dos Sólidos II,TE0157,MATHEUS HENRIQUE PIRES MIRANDA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,2,Refrigeração e Condicionamento de Ar,TE0167,PAULO ALEXANDRE COSTA ROCHA,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,2,Dinâmica dos Sistemas Mecânicos,TE0139,ROBERTO DE ARAUJO BEZERRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,2,Mecânica dos Sólidos I,TE0156,ROBERTO DE ARAUJO BEZERRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,2,Mecânica dos Sólidos II,TE0157,ROBERTO DE ARAUJO BEZERRA,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,2,Instrumentação,TE0160,ROMULO DO NASCIMENTO RODRIGUES,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2021,2,METODOLOGIA CIENTÍFICA,TE0323,ROMULO DO NASCIMENTO RODRIGUES,1A,32h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Desenho de Máquinas e Instalações,TE0262,EDILSON DIAS SIQUEIRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Desenho de Máquinas e Instalações,TE0262,EDILSON DIAS SIQUEIRA,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Dinâmica das Máquinas,TE0163,VANESSA VIEIRA GONCALVES,3,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Dinâmica das Máquinas,TE0163,ROBERTO DE ARAUJO BEZERRA,4,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Elementos de Máquinas I,TE0164,EDILSON DIAS SIQUEIRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Elementos de Máquinas I,TE0164,EDILSON DIAS SIQUEIRA,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Elementos de Máquinas II,TE0165,EDILSON DIAS SIQUEIRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Estática dos Sistemas Mecânicos,TE0251,ROBERTO DE ARAUJO BEZERRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Estática dos Sistemas Mecânicos,TE0251,ROMULO DO NASCIMENTO RODRIGUES,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Introdução à Engenharia Mecânica,TE0045,LUIZ SOARES JUNIOR,1,32h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Introdução à Engenharia Mecânica,TE0045,LUIZ SOARES JUNIOR,2,32h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Máquinas de Fluxo,TE0154,CLAUS FRANZ WEHMANN,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Máquinas de Fluxo,TE0154,CLAUS FRANZ WEHMANN,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Mecânica dos Sólidos I,TE0156,ROMULO DO NASCIMENTO RODRIGUES,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Mecânica dos Sólidos I,TE0156,ROBERTO DE ARAUJO BEZERRA,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Mecanismos,TE0161,CARLOS ANDRE DIAS BEZERRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Mecanismos,TE0161,VANESSA VIEIRA GONCALVES,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,MECANISMOS APLICADOS,TE0265,FRANCISCO ILSON DA SILVA JUNIOR,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Motores Térmicos,TE0162,ANDRE VALENTE BUENO,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Processos de Conformação Plástica,TE0166,FRANCISCO ELICIVALDO LIMA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Processos de Conformação Plástica,TE0166,FRANCISCO ELICIVALDO LIMA,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Termodinâmica Aplicada,TE0137,MARIA ALEXSANDRA DE SOUSA RIOS,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Termodinâmica Aplicada,TE0137,MONICA CASTELO GUIMARAES ALBUQUERQUE,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Transmissão de Calor,TE0158,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1,96h,Obrigatória,Antigo
+Engenharia Mecânica,2022,1,Transmissão de Calor,TE0158,CLODOALDO DE OLIVEIRA CARVALHO FILHO,2,96h,Obrigatória,Antigo
+Engenharia Mecânica,2022,2,Dinâmica dos Fluidos,TE0138,CLAUS FRANZ WEHMANN,1,96h,Obrigatória,Antigo
+Engenharia Mecânica,2022,2,Dinâmica dos Sistemas Mecânicos,TE0139,ROBERTO DE ARAUJO BEZERR,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,2,Dinâmica dos Sistemas Mecânicos,TE0139,VANESSA VIEIRA GONCALVES,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,2,Elementos de Máquinas I,TE0164,EDILSON DIAS SIQUEIRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,2,Elementos de Máquinas II,TE0165,CARLOS ANDRE DIAS BEZERRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,2,Elementos de Máquinas II,TE0165,EDILSON DIAS SIQUEIRA,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,2,Fundição e Soldagem,TE0159,LUIZ SOARES JUNIOR,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,2,Instrumentação,TE0160,ROMULO DO NASCIMENTO RODRIGUES,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,2,Manutenção de Equipamentos Industriais,TE0169,LUIZ SOARES JUNIOR,1,32h,Obrigatória,Antigo
+Engenharia Mecânica,2022,2,Mecânica dos Sólidos II,TE0157,VANESSA VIEIRA GONCALVES,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,2,Mecânica dos Sólidos II,TE0157,ROBERTO DE ARAUJO BEZERRA,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,2,MECANISMOS HIDRÁULICOS E PNEUMATICOS,TE0228,FRANCISCO ELICIVALDO LIMA,2,64h,Optativa,Antigo
+Engenharia Mecânica,2022,2,MECANISMOS HIDRÁULICOS E PNEUMATICOS,TE0228,FRANCISCO ELICIVALDO LIMA,3,64h,Optativa,Antigo
+Engenharia Mecânica,2022,2,METODOLOGIA CIENTÍFICA,TE0323,ROMULO DO NASCIMENTO RODRIGUES,1A,32h,Obrigatória,Antigo
+Engenharia Mecânica,2022,2,Metrologia e Avaliação Dimensional,TE0140,LUIZ SOARES JUNIOR,1A,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,2,Motores Térmicos,TE0162,MARIA ALEXSANDRA DE SOUSA RIOS,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,2,Motores Térmicos,TE0162,ANDRE VALENTE BUENO,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,2,Processos Tradicionais de Usinagem,TE0170,FRANCISCO ELICIVALDO LIMA,1A,48h,Obrigatória,Antigo
+Engenharia Mecânica,2022,2,Refrigeração e Condicionamento de Ar,TE0167,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,2,Refrigeração e Condicionamento de Ar,TE0167,VANJA FONTENELE NUNES,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2022,2,"TÓPICOS ESPECIAIS EM ENGENHARIA
+ TÓPICOS ESPECIAIS EM ENGENHARIA MECÂNICA IV",TE0188,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1,64h,Optativa,Antigo
+Engenharia Mecânica,2022,2,Transportadores Industriais,TE0208,EDILSON DIAS SIQUEIRA,1,64h,Optativa,Antigo
+Engenharia Mecânica,2022,2,VIBRACOES,TE0209,ROBERTO DE ARAUJO BEZERRA,1,64h,Optativa,Antigo
+Engenharia Mecânica,2023,1,Desenho de Máquinas e Instalações,TE0262,EDILSON DIAS SIQUEIRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,1,Desenho de Máquinas e Instalações,TE0262,EDILSON DIAS SIQUEIRA,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,1,Dinâmica das Máquinas,TE0163,ROBERTO DE ARAUJO BEZERRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,1,Dinâmica das Máquinas,TE0163,VANESSA VIEIRA GONCALVES,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,1,Elementos de Máquinas I,TE0164,EDILSON DIAS SIQUEIRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,1,Elementos de Máquinas I,TE0164,CARLOS ANDRE DIAS BEZERRA,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,1,Elementos de Máquinas II,TE0165,CARLOS ANDRE DIAS BEZERRA,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,1,Estática dos Sistemas Mecânicos,TE0251,ROBERTO DE ARAUJO BEZERRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,1,Estática dos Sistemas Mecânicos,TE0251,ROMULO DO NASCIMENTO RODRIGUES,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,1,Introdução à Engenharia Mecânica,TE0045,LUIZ SOARES JUNIOR,1,32h,Obrigatória,Antigo
+Engenharia Mecânica,2023,1,Introdução à Engenharia Mecânica,TE0045,LUIZ SOARES JUNIOR,2,32h,Obrigatória,Antigo
+Engenharia Mecânica,2023,1,Manutenção de Equipamentos Industriais,TE0169,FRANCISCO ELICIVALDO LIMA,1,32h,Obrigatória,Antigo
+Engenharia Mecânica,2023,1,Máquinas de Fluxo,TE0154,CLAUS FRANZ WEHMANN,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,1,Mecânica dos Sólidos I,TE0156,ROMULO DO NASCIMENTO RODRIGUES,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,1,Mecânica dos Sólidos I,TE0156,ROBERTO DE ARAUJO BEZERRA,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,1,Mecanismos,TE0161,CARLOS ANDRE DIAS BEZERRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,1,Mecanismos,TE0161,VANESSA VIEIRA GONCALVES,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,1,MECANISMOS APLICADOS,TE0265,FRANCISCO ILSON DA SILVA JUNIOR,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,1,Processos de Conformação Plástica,TE0166,FRANCISCO ELICIVALDO LIMA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,1,Processos Tradicionais de Usinagem,TE0170,FRANCISCO ELICIVALDO LIMA,1,48h,Obrigatória,Antigo
+Engenharia Mecânica,2023,1,SISTEMAS MECÂNICOS PARA ENERGIA EÓLICA,TE0311,CARLA FREITAS DE ANDRADE,1,64h,Optativa,Antigo
+Engenharia Mecânica,2023,1,Termodinâmica Aplicada,TE0137,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1,32h,Obrigatória,Antigo
+Engenharia Mecânica,2023,1,Termodinâmica Aplicada,TE0137,MARIA ALEXSANDRA DE SOUSA RIOS,1,64h
+Engenharia Mecânica,2023,1,Termodinâmica Aplicada,TE0137,ANDRE VALENTE BUENO,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,1,Transmissão de Calor,TE0158,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1,96h,Obrigatória,Antigo
+Engenharia Mecânica,2023,2,Desenho de Máquinas e Instalações,TE0262,EDILSON DIAS SIQUEIRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,2,DINÂMICA DAS MÁQUINAS PARA ENERGIAS RENOVÁVEIS,TE0312,FRANCISCO ILSON DA SILVA JUNIOR,1,96h,Obrigatória,Antigo
+Engenharia Mecânica,2023,2,Dinâmica dos Fluidos,TE0138,CLAUS FRANZ WEHMANN,1,96h,Obrigatória,Antigo
+Engenharia Mecânica,2023,2,Dinâmica dos Sistemas Mecânicos,TE0139,ROBERTO DE ARAUJO BEZERRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,2,Dinâmica dos Sistemas Mecânicos,TE0139,FLAVISON DE ALMADA VIEIRA,3,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,2,Elementos de Máquinas I,TE0164,EDILSON DIAS SIQUEIRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,2,Elementos de Máquinas II,TE0165,CARLOS ANDRE DIAS BEZERRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,2,Elementos de Máquinas II,TE0165,EDILSON DIAS SIQUEIRA,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,2,Fundição e Soldagem,TE0159,FRANCISCO ELICIVALDO LIMA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,2,Instrumentação,TE0160,FLAVISON DE ALMADA VIEIRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,2,Manutenção de Equipamentos Industriais,TE0169,LUIZ SOARES JUNIOR,1,32h,Obrigatória,Antigo
+Engenharia Mecânica,2023,2,MECÂNICA DOS SOLIDOS II,TE0157,ROBERTO DE ARAUJO BEZERRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,2,MECÂNICA DOS SOLIDOS II,TE0157,VANESSA VIEIRA GONCALVES,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,2,MECANISMOS HIDRÁULICOS E PNEUMATICOS,TE0228,FRANCISCO ELICIVALDO LIMA,2,64h,Optativa,Antigo
+Engenharia Mecânica,2023,2,METODOLOGIA CIENTÍFICA,TE0323,FLAVISON DE ALMADA VIEIRA (32h),1A,32h,Obrigatória,Antigo
+Engenharia Mecânica,2023,2,Metrologia e Avaliação Dimensional,TE0140,LUIZ SOARES JUNIOR,1A,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,2,MONITORACAO E DIAGNOSTICO DE MÁQUINAS,TE0206,ROBERTO DE ARAUJO BEZERRA,1,64h,Optativa,Antigo
+Engenharia Mecânica,2023,2,Motores Térmicos,TE0162,MARIA ALEXSANDRA DE SOUSA RIOS,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,2,Motores Térmicos,TE0162,ANDRE VALENTE BUENO,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,2,Processos Tradicionais de Usinagem,TE0170,LUIZ SOARES JUNIOR,1A,48h,Obrigatória,Antigo
+Engenharia Mecânica,2023,2,Refrigeração e Condicionamento de Ar,TE0167,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2023,2,"TÓPICOS ESPECIAIS EM ENGENHARIA
+ TÓPICOS ESPECIAIS EM ENGENHARIA MECÂNICA IV",TE0188,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1,64h,Optativa,Antigo
+Engenharia Mecânica,2023,2,"TÓPICOS ESPECIAIS EM ENGENHARIA
+ MECÂNICA III",TE0187,FRANCISCO ELICIVALDO LIMA,1,64h,Optativa,Antigo
+Engenharia Mecânica,2024,1,Desenho Técnico Mecânico,TE0271,EDILSON DIAS SIQUEIRA,1A,64h,Obrigatória,Novo
+Engenharia Mecânica,2024,1,Desenho Técnico Mecânico,TE0271,EDILSON DIAS SIQUEIRA,2A,64h,Obrigatória,Novo
+Engenharia Mecânica,2024,1,Dinâmica das Máquinas,TE0163,ROBERTO DE ARAUJO BEZERRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2024,1,Dinâmica das Máquinas,TE0163,VANESSA VIEIRA GONCALVES,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2024,1,Elementos de Máquinas I,TE0164,EDILSON DIAS SIQUEIRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2024,1,Elementos de Máquinas I,TE0164,CARLOS ANDRE DIAS BEZERRA,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2024,1,Elementos de Máquinas II,TE0165,CARLOS ANDRE DIAS BEZERRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2024,1,Estática dos Sistemas Mecânicos,TE0270,ROBERTO DE ARAUJO BEZERRA,1A,64h,Obrigatória,Novo
+Engenharia Mecânica,2024,1,Estática dos Sistemas Mecânicos,TE0270,FLAVISON DE ALMADA VIEIRA,2A,64h,Obrigatória,Novo
+Engenharia Mecânica,2024,1,Fontes de Energias Renováveis,TE0300,MONICA CASTELO GUIMARAES ALBUQUERQUE,1,64h,Optativa,Novo
+Engenharia Mecânica,2024,1,Fontes de Energias Renováveis,TE0300,ANA FABIOLA LEITE ALMEIDA,2,64h,Optativa,Novo
+Engenharia Mecânica,2024,1,Introdução à Engenharia Mecânica,TE0259,LUIZ SOARES JUNIOR,1A,48h,Obrigatória,Novo
+Engenharia Mecânica,2024,1,Manutenção de Equipamentos Industriais,TE0169,FRANCISCO ELICIVALDO LIMA,1,32h,Obrigatória,Antigo
+Engenharia Mecânica,2024,1,Máquinas de Fluxo,TE0154,CARLA FREITAS DE ANDRADE,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2024,1,Mecânica dos Sólidos I,TE0156,FLAVISON DE ALMADA VIEIRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2024,1,Mecânica dos Sólidos I,TE0156,ROBERTO DE ARAUJO BEZERRA,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2024,1,Mecanismos,TE0161,CARLOS ANDRE DIAS BEZERRA,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2024,1,MECANISMOS APLICADOS,TE0265,FRANCISCO ILSON DA SILVA JUNIOR,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2024,1,Processos de Conformação Plástica,TE0166,FRANCISCO ELICIVALDO LIMA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2024,1,Processos de Conformação Plástica,TE0166,FRANCISCO ELICIVALDO LIMA,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2024,1,Processos Tradicionais de Usinagem,TE0170,FRANCISCO ELICIVALDO LIMA,1A,48h,Obrigatória,Antigo
+Engenharia Mecânica,2024,1,PROJETO INTEGRADOR I,TE0272,FRANCISCO ELICIVALDO LIMA,5A,96h,Obrigatória,Novo
+Engenharia Mecânica,2024,1,PROJETO INTEGRADOR I,TE0272,CLODOALDO DE OLIVEIRA CARVALHO FILHO,4A,96h,Obrigatória,Novo
+Engenharia Mecânica,2024,1,PROJETO INTEGRADOR I,TE0272,CARLOS ANDRE DIAS BEZERRA,6A,96h,Obrigatória,Novo
+Engenharia Mecânica,2024,1,SISTEMAS MECÂNICOS PARA ENERGIA EÓLICA,TE0311,CARLA FREITAS DE ANDRADE,1,64h,Optativa,Antigo
+Engenharia Mecânica,2024,1,Termodinâmica Aplicada,TE0137,ANDRE VALENTE BUENO,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2024,1,Termodinâmica Aplicada,TE0269,MARIA ALEXSANDRA DE SOUSA RIOS,1A,64h,Obrigatória,Novo
+Engenharia Mecânica,2024,1,TÓPICOS ESPECIAIS EM SISTEMAS MECÂNICOS I,TE0348,AMANDA PEREIRA MONTEIRO,1A,64h,Optativa,Novo
+Engenharia Mecânica,2024,1,Transmissão de Calor,TE0158,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1,96h,Obrigatória,Antigo
+Engenharia Mecânica,2024,2,DINÂMICA DAS MÁQUINAS PARA ENERGIAS RENOVÁVEIS,TE0312,FRANCISCO ILSON DA SILVA JUNIOR,1,96h,Obrigatória,Antigo
+Engenharia Mecânica,2024,2,Dinâmica dos Fluidos,TE0138,PAULO ALEXANDRE COSTA ROCHA,1,96h,Obrigatória,Antigo
+Engenharia Mecânica,2024,2,Dinâmica dos Fluidos I,TE0273,FERNANDA LEITE LOBO,01A,64h,Obrigatória,Novo
+Engenharia Mecânica,2024,2,Dinâmica dos Sistemas Mecânicos,TE0274,ROBERTO DE ARAUJO BEZERRA,01A,64h,Obrigatória,Novo
+Engenharia Mecânica,2024,2,Elementos de Máquinas I,TE0164,EDILSON DIAS SIQUEIRA (64h),1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2024,2,Elementos de Máquinas I,TE0164,CARLOS ANDRE DIAS BEZERRA,1,32h,Obrigatória,Antigo
+Engenharia Mecânica,2024,2,Elementos de Máquinas II,TE0165,CARLOS ANDRE DIAS BEZERRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2024,2,Elementos de Máquinas II,TE0165,EDILSON DIAS SIQUEIRA (64h),2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2024,2,,TE0165,CARLOS ANDRE DIAS BEZERRA,2,32h
+Engenharia Mecânica,2024,2,Fundição e Soldagem,TE0159,FRANCISCO ELICIVALDO LIMA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2024,2,Instrumentação,TE0160,LUIZ SOARES JUNIOR,1,32h,Obrigatória,Antigo
+Engenharia Mecânica,2024,2,Instrumentação,TE0160,EDILSON DIAS SIQUEIRA,1,32h
+Engenharia Mecânica,2024,2,Manutenção de Equipamentos Industriais,TE0169,FRANCISCO ELICIVALDO LIMA,1,32h,Obrigatória,Antigo
+Engenharia Mecânica,2024,2,Mecânica dos Sólidos II,TE0157,ROBERTO DE ARAUJO BEZERRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2024,2,METODOLOGIA CIENTÍFICA,TE0323,VANESSA VIEIRA GONCALVES,1A,32h,Obrigatória,Antigo
+Engenharia Mecânica,2024,2,Metrologia Científica e Industrial,TE0275,LUIZ SOARES JUNIOR,1A,64h,Obrigatória,Novo
+Engenharia Mecânica,2024,2,MONITORACAO E DIAGNOSTICO DE MÁQUINAS,TE0206,ROBERTO DE ARAUJO BEZERRA,1,64h,Optativa,Antigo
+Engenharia Mecânica,2024,2,Motores Térmicos,TE0162,ANDRE VALENTE BUENO,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2024,2,Processos Tradicionais de Usinagem,TE0170,LUIZ SOARES JUNIOR,1A,48h,Obrigatória,Antigo
+Engenharia Mecânica,2024,2,Refrigeração e Condicionamento de Ar,TE0167,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2024,2,"TÓPICOS ESPECIAIS EM ENGENHARIA
+ MECÂNICA II",TE0186,FRANCISCO ELICIVALDO LIMA,1,32h,Optativa,Antigo
+Engenharia Mecânica,2024,2,TÓPICOS ESPECIAIS EM SISTEMAS TÉRMICOS I,TE0344,MARIA ALEXSANDRA DE SOUSA RIOS,2A,64h,Optativa,Novo
+Engenharia Mecânica,2025,1,Desenho Técnico Mecânico,TE0271,MANOEL JOSE DA SILVA NETO,1A,64h,Obrigatória,Novo
+Engenharia Mecânica,2025,1,Desenho Técnico Mecânico,TE0271,MANOEL JOSE DA SILVA NETO,2A,64h,Obrigatória,Novo
+Engenharia Mecânica,2025,1,Dinâmica das Máquinas,TE0163,ROBERTO DE ARAUJO BEZERRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2025,1,Dinâmica das Máquinas,TE0163,VANESSA VIEIRA GONCALVES,2,64h,Obrigatória,Antigo
+Engenharia Mecânica,2025,1,Elementos de Máquinas I,TE0164,MANOEL JOSE DA SILVA NETO,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2025,1,Elementos de Máquinas I,TE0164,CARLOS ANDRE DIAS BEZERRA,3,64h,Obrigatória,Antigo
+Engenharia Mecânica,2025,1,Elementos de Máquinas II,TE0165,MANOEL JOSE DA SILVA NETO,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2025,1,Estática dos Sistemas Mecânicos,TE0270,ROBERTO DE ARAUJO BEZERRA,1A,64h,Obrigatória,Novo
+Engenharia Mecânica,2025,1,Fontes de Energias Renováveis,TE0300,AMANDA PEREIRA MONTEIRO,1A,64h,Optativa,Novo
+Engenharia Mecânica,2025,1,Introdução à Engenharia Mecânica,TE0259,LUIZ SOARES JUNIOR,1A,48h,Obrigatória,Novo
+Engenharia Mecânica,2025,1,Máquinas de Fluxo,TE0154,FERNANDA LEITE LOBO,1A,64h,Obrigatória,Antigo
+Engenharia Mecânica,2025,1,Máquinas de Fluxo,TE0276,PAULO ALEXANDRE COSTA ROCHA,1A,64h,Obrigatória,Novo
+Engenharia Mecânica,2025,1,Mecânica dos Sólidos I,TE0277,ROBERTO DE ARAUJO BEZERRA,1A,64h,Obrigatória,Novo
+Engenharia Mecânica,2025,1,Mecanismos,TE0161,CARLOS ANDRE DIAS BEZERRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2025,1,MECANISMOS APLICADOS,TE0265,FRANCISCO ILSON DA SILVA JUNIOR,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2025,1,Processos de Conformação Plástica,TE0166,FRANCISCO ELICIVALDO LIMA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2025,1,Processos Tradicionais de Usinagem,TE0170,FRANCISCO ELICIVALDO LIMA,1A,48h,Obrigatória,Antigo
+Engenharia Mecânica,2025,1,PROJETO INTEGRADOR I,TE0272,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1A,96h,Obrigatória,Novo
+Engenharia Mecânica,2025,1,PROJETO INTEGRADOR I,TE0272,VANESSA VIEIRA GONCALVES,2A,96h,Obrigatória,Novo
+Engenharia Mecânica,2025,1,PROJETO INTEGRADOR I,TE0272,FRANCISCO ELICIVALDO LIMA,3A,96h,Obrigatória,Novo
+Engenharia Mecânica,2025,1,MOTORES TERMICOS,TE0315,WILLIAM MAGALHAES BARCELLOS,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2025,1,Termodinâmica Aplicada,TE0137,ANDRE VALENTE BUENO,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2025,1,Termodinâmica Aplicada,TE0269,MARIA ALEXSANDRA DE SOUSA RIOS,1A,64h,Obrigatória,Novo
+Engenharia Mecânica,2025,1,"TÓPICOS ESPECIAIS EM ENGENHARIA
+ MECÂNICA II",TE0186,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1,32h,Optativa,Antigo
+Engenharia Mecânica,2025,1,Transferência de Calor I,TE0278,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1A,64h,Obrigatória,Novo
+Engenharia Mecânica,2025,1,Transmissão de Calor,TE0158,FRANCISCO NIVALDO AGUIAR FREIRE,2,96h,Obrigatória,Antigo
+Engenharia Mecânica,2025,2,BIOMASSA PARA ENERGIA E BIOCOMBUSTÍVEIS,TE0330,MARIA ALEXSANDRA DE SOUSA RIOS,1A,64h,Optativa,Novo
+Engenharia Mecânica,2025,2,Desenho Técnico Mecânico,TE0271,MANOEL JOSE DA SILVA NETO,1A,64h,Obrigatória,Novo
+Engenharia Mecânica,2025,2,Dinâmica dos Fluidos,TE0138,PAULO ALEXANDRE COSTA ROCHA,1,96h,Obrigatória,Antigo
+Engenharia Mecânica,2025,2,Dinâmica dos Fluidos I,TE0273,FERNANDA LEITE LOBO,1A,64h,Obrigatória,Novo
+Engenharia Mecânica,2025,2,Dinâmica dos Sistemas Mecânicos,TE0274,ROBERTO DE ARAUJO BEZERRA,1A,64h,Obrigatória,Novo
+Engenharia Mecânica,2025,2,Dinâmica dos Sistemas Mecânicos,TE0274,ROMULO DO NASCIMENTO RODRIGUES,2A,64h,Obrigatória,Novo
+Engenharia Mecânica,2025,2,Elementos de Máquinas I,TE0164,MANOEL JOSE DA SILVA NETO,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2025,2,Elementos de Máquinas II,TE0165,CARLOS ANDRE DIAS BEZERRA,1,64h,Obrigatória,Antigo
+Engenharia Mecânica,2025,2,Instrumentação,TE0281,ROMULO DO NASCIMENTO RODRIGUES,1A,64h,Obrigatória,Novo
+Engenharia Mecânica,2025,2,Manutenção de Equipamentos Industriais,TE0169,LUIZ SOARES JUNIOR,1A,32h,Obrigatória,Antigo
+Engenharia Mecânica,2025,2,Mecânica dos Sólidos II,TE0279,VANESSA VIEIRA GONCALVES,1A,64h,Obrigatória,Novo
+Engenharia Mecânica,2025,2,Metrologia Científica e Industrial,TE0275,LUIZ SOARES JUNIOR,1A,64h,Obrigatória,Novo
+Engenharia Mecânica,2025,2,MONITORACAO E DIAGNOSTICO DE MÁQUINAS,TE0206,ROBERTO DE ARAUJO BEZERRA,1,64h,Optativa,Antigo
+Engenharia Mecânica,2025,2,Motores Térmicos,TE0282,ANDRE VALENTE BUENO,1A,64h,Obrigatória,Novo
+Engenharia Mecânica,2025,2,Processos de Fabricação por Fundição e Soldagem,TE0280,FRANCISCO ELICIVALDO LIMA,1A,32h,Obrigatória,Novo
+Engenharia Mecânica,2025,2,Processos Tradicionais de Usinagem,TE0170,LUIZ SOARES JUNIOR,1A,48h,Obrigatória,Antigo
+Engenharia Mecânica,2025,2,PROJETO INTEGRADOR II,TE0284,FRANCISCO ELICIVALDO LIMA,1A,96h,Obrigatória,Novo
+Engenharia Mecânica,2025,2,PROJETO INTEGRADOR II,TE0284,ANDRE VALENTE BUENO,2A,96h,Obrigatória,Novo
+Engenharia Mecânica,2025,2,PROJETO INTEGRADOR II,TE0284,CARLOS ANDRE DIAS BEZERRA,3A,96h,Obrigatória,Novo
+Engenharia Mecânica,2025,2,Refrigeração e Condicionamento de Ar,TE0283,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1A,64h,Obrigatória,Novo
+Engenharia Mecânica,2025,2,Transferência de Calor II,TE0351,MARIA ALEXSANDRA DE SOUSA RIOS,1A,64h,Obrigatória,Novo
+Engenharia Elétrica,2021,1,NENHUMA TURMA ENCONTRADA
+Engenharia Elétrica,2021,2,NENHUMA TURMA ENCONTRADA
+Engenharia Elétrica,2022,1,NENHUMA TURMA ENCONTRADA
+Engenharia Elétrica,2022,2,NENHUMA TURMA ENCONTRADA
+Engenharia Elétrica,2023,1,TÓPICOS ESPECIAIS EM SISTEMAS DE ENERGIAS RENOVÁVEIS II,TE0308,PAULO PEIXOTO PRACA (32h) e LUIZ HENRIQUE SILVA COLADO BARRETO (32h),4,64h
+Engenharia Elétrica,2023,2,NENHUMA TURMA ENCONTRADA
+Engenharia Elétrica,2024,1,NENHUMA TURMA ENCONTRADA
+Engenharia Elétrica,2024,2,NENHUMA TURMA ENCONTRADA
+Engenharia Elétrica,2025,1,NENHUMA TURMA ENCONTRADA
+Engenharia Elétrica,2025,2,NENHUMA TURMA ENCONTRADA
+Engenharia de Telecomunicações,2021,1,NENHUMA TURMA ENCONTRADA
+Engenharia de Telecomunicações,2021,2,FUNDAMENTOS DE MECÂNICA DOS SOLIDOS,TE0252,MATHEUS HENRIQUE PIRES MIRANDA,1,32h
+Engenharia de Telecomunicações,2022,1,NENHUMA TURMA ENCONTRADA
+Engenharia de Telecomunicações,2022,2,FUNDAMENTOS DE MECÂNICA DOS SOLIDOS,TE0252,VANESSA VIEIRA GONCALVES,1,32h
+Engenharia de Telecomunicações,2023,1,NENHUMA TURMA ENCONTRADA
+Engenharia de Telecomunicações,2023,2,FUNDAMENTOS DE MECÂNICA DOS SOLIDOS,TE0252,FLAVISON DE ALMADA VIEIRA,1,32h
+Engenharia de Telecomunicações,2024,1,NENHUMA TURMA ENCONTRADA
+Engenharia de Telecomunicações,2024,2,FUNDAMENTOS DE MECÂNICA DOS SOLIDOS,TE0252,VANESSA VIEIRA GONCALVES,1,32h
+Engenharia de Telecomunicações,2025,1,NENHUMA TURMA ENCONTRADA
+Engenharia de Telecomunicações,2025,2,FUNDAMENTOS DE MECÂNICA DOS SOLIDOS,TE0252,MANOEL JOSE DA SILVA NETO,1,32h
+Engenharia Ambiental e Sanitária,2021,1,NENHUMA TURMA ENCONTRADA
+Engenharia Ambiental e Sanitária,2021,2,NENHUMA TURMA ENCONTRADA
+Engenharia Ambiental e Sanitária,2022,1,NENHUMA TURMA ENCONTRADA
+Engenharia Ambiental e Sanitária,2022,1,NENHUMA TURMA ENCONTRADA
+Engenharia Ambiental e Sanitária,2023,2,NENHUMA TURMA ENCONTRADA
+Engenharia Ambiental e Sanitária,2023,1,NENHUMA TURMA ENCONTRADA
+Engenharia Ambiental e Sanitária,2024,1,Fontes de Energias Renováveis,TE0300,MONICA CASTELO GUIMARAES ALBUQUERQUE,1,64h
+Engenharia Ambiental e Sanitária,2024,1,Fontes de Energias Renováveis,TE0300,ANA FABIOLA LEITE ALMEIDA,2,64h
+Engenharia Ambiental e Sanitária,2024,2,NENHUMA TURMA ENCONTRADA
+Engenharia Ambiental e Sanitária,2025,1,NENHUMA TURMA ENCONTRADA
+Engenharia Ambiental e Sanitária,2025,2,NENHUMA TURMA ENCONTRADA
+Engenharia de Computação,2021,1,NENHUMA TURMA ENCONTRADA
+Engenharia de Computação,2021,2,FUNDAMENTOS DE MECÂNICA DOS SOLIDOS,TE0252,MATHEUS HENRIQUE PIRES MIRANDA,2,32h
+Engenharia de Computação,2022,1,NENHUMA TURMA ENCONTRADA
+Engenharia de Computação,2022,2,FUNDAMENTOS DE MECÂNICA DOS SOLIDOS,TE0252,VANESSA VIEIRA GONCALVES,2,32h
+Engenharia de Computação,2023,1,Mecânica dos Sólidos I,TE0156,ROMULO DO NASCIMENTO RODRIGUES,1,64h
+Engenharia de Computação,2023,2,FUNDAMENTOS DE MECÂNICA DOS SOLIDOS,TE0252,VANESSA VIEIRA GONCALVES,2,32h
+Engenharia de Computação,2024,1,NENHUMA TURMA ENCONTRADA
+Engenharia de Computação,2024,2,FUNDAMENTOS DE MECÂNICA DOS SOLIDOS,TE0252,VANESSA VIEIRA GONCALVES,2,32h
+Engenharia de Computação,2025,1,NENHUMA TURMA ENCONTRADA
+Engenharia de Computação,2025,2,FUNDAMENTOS DE MECÂNICA DOS SOLIDOS,TE0252,ROBERTO DE ARAUJO BEZERRA,2,32h
+Engenharia Renováveis,2021,1,NENHUMA TURMA ENCONTRADA
+Engenharia Renováveis,2021,2,NENHUMA TURMA ENCONTRADA
+Engenharia Renováveis,2022,1,NENHUMA TURMA ENCONTRADA
+Engenharia Renováveis,2022,2,NENHUMA TURMA ENCONTRADA
+Engenharia Renováveis,2023,1,NENHUMA TURMA ENCONTRADA
+Engenharia Renováveis,2023,2,NENHUMA TURMA ENCONTRADA
+Engenharia Renováveis,2024,1,INTRODUÇÃO À ENGENHARIA DE ENERGIAS RENOVÁVEIS,TE0400,William Magalhaes Barcellos,1A,32h
+Engenharia Renováveis,2024,1,MECÂNICA DOS SOLIDOS,TE0146,VANESSA VIEIRA GONCALVES,1A,64h
+Engenharia Renováveis,2024,1,PRINCÍPIOS DE PROCESSOS BIOQUÍMICOS,TE0422,Fernanda Leite Lobo,1A,64h
+Engenharia Renováveis,2024,1,SISTEMAS MECÂNICOS PARA ENERGIA EÓLICA,TE0311,Carla Freitas de Andrade,1A,64h
+Engenharia Renováveis,2024,2,ANÁLISE DE SISTEMAS TERMICOS,TE0303,MONICA CASTELO GUIMARAES ALBUQUERQUE,1,96h
+Engenharia Renováveis,2024,2,Dinâmica dos Fluidos I,TE0273,Fernanda Leite Lobo,2A,64h
+Engenharia Renováveis,2024,2,SISTEMAS DE COMBUSTÃO APLICADO À BIOMASSA,TE0314,Monica Castelo Guimaraes Albuquerque,1,96h
+Engenharia Renováveis,2024,2,TERMODINÂMICA APLICADA,TE0402,MARIA ALEXSANDRA DE SOUSA RIOS,1A,64h
+Engenharia Renováveis,2024,2,TERMODINÂMICA APLICADA AS EEMA,TE1003,William Magalhaes Barcellos,2,64h
+Engenharia Renováveis,2025,1,ANÁLISE DE SISTEMAS TÉRMICOS,TE0417,Monica Castelo Guimaraes Albuquerque,1A,64h
+Engenharia Renováveis,2025,1,CIRCUITOS ELÉTRICOS PARA ENERGIAS RENOVÁVEIS,TE0427,Amanda Pereira Monteiro,1A,64h
+Engenharia Renováveis,2025,1,FILMES FINOS DE SEMICONDUTORES,TE0317,Ana Fabiola Leite Almeida,1A,64h
+Engenharia Renováveis,2025,1,INTRODUÇÃO À ENGENHARIA DE ENERGIAS RENOVÁVEIS,TE0400,Francisco Ilson da Silva Junior,1A,32h
+Engenharia Renováveis,2025,1,Máquinas de Fluxo,TE0154,Fernanda Leite Lobo,1A,64h
+Engenharia Renováveis,2025,1,Máquinas de Fluxo,TE0154,Carla Freitas de Andrade,2A,64h
+Engenharia Renováveis,2025,1,PRINCÍPIOS DE PROCESSOS BIOQUÍMICOS,TE0422,Fernanda Leite Lobo,2A,64h
+Engenharia Renováveis,2025,1,PROJETO INTEGRADO I,TE0800,William Magalhaes Barcellos,1A,32h
+Engenharia Renováveis,2025,1,RESISTÊNCIA DOS MATERIAIS EM ENGENHARIA DE ENERGIAS RENOVÁVEIS,TE0403,Francisco Ilson da Silva Junior,1A,64h
+Engenharia Renováveis,2025,1,SISTEMAS MECÂNICOS PARA ENERGIA EÓLICA,TE0311,Carla Freitas de Andrade,1,64h
+Engenharia Renováveis,2025,1,Transmissão de Calor,TE0158,Francisco Nivaldo Aguiar Freire,2,96h
+Engenharia Renováveis,2025,1,TRANSMISSÃO DE CALOR,TE0418,William Magalhaes Barcellos,1A,64h
+Engenharia Renováveis,2025,2,BIOMASSA E BIOCOMBUSTÍVEIS,TE0404,Monica Castelo Guimaraes Albuquerque,1A,64h
+Engenharia Renováveis,2025,2,CIRCUITOS ELÉTRICOS PARA ENERGIAS RENOVÁVEIS,TE0427,Amanda Pereira Monteiro,2A,64h
+Engenharia Renováveis,2025,2,Dinâmica dos Fluidos I,TE0273,Fernanda Leite Lobo,1A,64h
+Engenharia Renováveis,2025,2,ENERGIA EÓLICA,TE0408,Carla Freitas de Andrade,1A,64h
+Engenharia Renováveis,2025,2,ENERGIA SOLAR TÉRMICA,TE0313,Ana Fabiola Leite Almeida,1A,64h
+Engenharia Renováveis,2025,2,MECÂNICA DOS SÓLIDOS EM ENGENHARIA DE ENERGIAS RENOVÁVEIS,TE0302,Francisco Ilson da Silva Junior,1,64h
+Engenharia Renováveis,2025,2,PROJETO INTEGRADOR II,TE0801,Francisco Nivaldo Aguiar Freire,1A,32h
+Engenharia Renováveis,2025,2,TERMODINÂMICA APLICADA,TE0402,Andre Valente Bueno,1A,32h
+Engenharia Renováveis,2025,2,TERMODINÂMICA APLICADA,TE0402,Clodoaldo de Oliveira Carvalho Filho,1A,32h
+Engenharia Produção Mecânica,2021,1,TERMODINÂMICA E TRANSFERENCIA DE CALOR,TE0219,CLAUS FRANZ WEHMANN,1,64h
+Engenharia Produção Mecânica,2021,1,Máquinas de Fluxo,TE0154,CLAUS FRANZ WEHMANN,2,64h
+Engenharia Produção Mecânica,2021,1,SISTEMAS TERMICOS,TE0232,FRANCISCO NIVALDO AGUIAR FREIRE (32h) e CLODOALDO DE OLIVEIRA CARVALHO FILHO (32h),1,64h
+Engenharia Produção Mecânica,2021,1,MECÂNICA APLICADA,TE0221,MATHEUS HENRIQUE PIRES MIRANDA (32h) e PIERRE MAURICE CHRISTOPHE LAMARY (32h),1,64h
+Engenharia Produção Mecânica,2021,1,MECANISMOS HIDRÁULICOS E PNEUMATICOS,TE0228,FRANCISCO ELICIVALDO LIMA,1,64h
+Engenharia Produção Mecânica,2021,2,SISTEMAS TERMICOS,TE0232,ANDRE VALENTE BUENO,1,64h
+Engenharia Produção Mecânica,2021,2,MECÂNICA DOS SOLIDOS,TE0146,CARLOS ANDRE DIAS BEZERRA,1,64h
+Engenharia Produção Mecânica,2021,2,MECANISMOS HIDRÁULICOS E PNEUMATICOS,TE0228,FRANCISCO ELICIVALDO LIMA,2,64h
+Engenharia Produção Mecânica,2021,2,TÓPICOS DE FABRICACAO,TE0147,LUIZ SOARES JUNIOR,1,64h
+Engenharia Produção Mecânica,2022,1,TERMODINÂMICA E TRANSFERENCIA DE CALOR,TE0219,ANDRE VALENTE BUENO,1,64h
+Engenharia Produção Mecânica,2022,1,Máquinas de Fluxo,TE0154,CLAUS FRANZ WEHMANN,3,64h
+Engenharia Produção Mecânica,2022,1,SISTEMAS TERMICOS,TE0232,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1,64h
+Engenharia Produção Mecânica,2022,1,MECÂNICA APLICADA,TE0221,VANESSA VIEIRA GONCALVES,1,64h
+Engenharia Produção Mecânica,2022,2,MECÂNICA DOS SOLIDOS,TE0146,CARLOS ANDRE DIAS BEZERRA,1,64h
+Engenharia Produção Mecânica,2022,2,MECANISMOS HIDRÁULICOS E PNEUMATICOS,TE0228,FRANCISCO ELICIVALDO LIMA,2,64h
+Engenharia Produção Mecânica,2022,2,TÓPICOS DE FABRICACAO,TE0147,LUIZ SOARES JUNIOR,1,64h
+Engenharia Produção Mecânica,2022,2,ANÁLISE DE SISTEMAS TERMICOS,TE0303,FRANCISCO NIVALDO AGUIAR FREIRE,1,96h
+Engenharia Produção Mecânica,2023,1,Máquinas de Fluxo,TE0154,CLAUS FRANZ WEHMANN,2,64h
+Engenharia Produção Mecânica,2023,1,SISTEMAS TERMICOS,TE0232,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1,64h
+Engenharia Produção Mecânica,2023,1,TERMODINÂMICA E TRANSFERENCIA DE CALOR,TE0219,MARIA ALEXSANDRA DE SOUSA RIOS,1,64h
+Engenharia Produção Mecânica,2023,1,MECÂNICA APLICADA,TE0221,VANESSA VIEIRA GONCALVES,1,64h
+Engenharia Produção Mecânica,2023,2,MECÂNICA DOS SOLIDOS,TE0146,CARLOS ANDRE DIAS BEZERRA,01A,64h
+Engenharia Produção Mecânica,2023,2,MECANISMOS HIDRÁULICOS E PNEUMATICOS,TE0228,FRANCISCO ELICIVALDO LIMA,1,64h
+Engenharia Produção Mecânica,2023,2,TÓPICOS DE FABRICACAO,TE0147,LUIZ SOARES JUNIOR,1,64h
+Engenharia Produção Mecânica,2023,2,ANÁLISE DE SISTEMAS TERMICOS,TE0303,MONICA CASTELO GUIMARAES ALBUQUERQUE,2,96h
+Engenharia Produção Mecânica,2024,1,SISTEMAS TERMICOS,TE0232,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1,64h
+Engenharia Produção Mecânica,2024,1,MECÂNICA APLICADA,TE0221,FLAVISON DE ALMADA VIEIRA,1,64h
+Engenharia Produção Mecânica,2024,1,TERMODINÂMICA E TRANSFERENCIA DE CALOR,TE0219,MARIA ALEXSANDRA DE SOUSA RIOS,1,64h
+Engenharia Produção Mecânica,2024,1,Máquinas de Fluxo,TE0154,PAULO ALEXANDRE COSTA ROCHA,3,64h
+Engenharia Produção Mecânica,2024,1,MECÂNICA DOS SOLIDOS,TE0146,VANESSA VIEIRA GONCALVES,01A,64h
+Engenharia Produção Mecânica,2024,2,MECANISMOS HIDRÁULICOS E PNEUMATICOS,TE0228,FRANCISCO ELICIVALDO LIMA,1,64h
+Engenharia Produção Mecânica,2024,2,TÓPICOS DE FABRICACAO,TE0147,FRANCISCO ELICIVALDO LIMA,1,64h
+Engenharia Produção Mecânica,2025,1,MECÂNICA APLICADA,TE0221,CARLOS ANDRE DIAS BEZERRA,1,64h
+Engenharia Produção Mecânica,2025,1,SISTEMAS TERMICOS,TE0232,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1,64h
+Engenharia Produção Mecânica,2025,1,Máquinas de Fluxo,TE0154,FERNANDA LEITE LOBO,01A,64h
+Engenharia Produção Mecânica,2025,1,TÓPICOS DE FABRICACAO,TE0147,LUIZ SOARES JUNIOR,1,64h
+Engenharia Produção Mecânica,2025,1,TERMODINÂMICA E TRANSFERENCIA DE CALOR,TE0219,MARIA ALEXSANDRA DE SOUSA RIOS,1,64h
+Engenharia Produção Mecânica,2025,2,MECANISMOS HIDRÁULICOS E PNEUMATICOS,TE0228,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1,64h
+Engenharia Produção Mecânica,2025,2,SISTEMAS TERMICOS,TE0232,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1,64h
+Engenharia de Energias e Meio Ambiente,2021,1,LABORATÓRIO DE ENERGIAS RENOVÁVEIS,TE0263,ANA FABIOLA LEITE ALMEIDA,1,64h
+Engenharia de Energias e Meio Ambiente,2021,1,Máquinas de Fluxo,TE0154,CARLA FREITAS DE ANDRADE,3,64h
+Engenharia de Energias e Meio Ambiente,2021,1,SISTEMAS MECÂNICOS PARA ENERGIA EÓLICA,TE0311,CARLA FREITAS DE ANDRADE,1,64h
+Engenharia de Energias e Meio Ambiente,2021,1,Fontes de Energias Renováveis,TE0300,FERNANDA LEITE LOBO,2,64h
+Engenharia de Energias e Meio Ambiente,2021,1,MECANISMOS APLICADOS,TE0265,FRANCISCO ILSON DA SILVA JUNIOR,1,64h
+Engenharia de Energias e Meio Ambiente,2021,1,TÓPICOS ESPECIAIS EM SISTEMAS MECÂNICOS II,TE0310,FRANCISCO ILSON DA SILVA JUNIOR,1,64h
+Engenharia de Energias e Meio Ambiente,2021,1,Transmissão de Calor,TE0158,FRANCISCO NIVALDO AGUIAR FREIRE (32h) e WILLIAM MAGALHAES BARCELLOS (64h),2,96h
+Engenharia de Energias e Meio Ambiente,2021,1,Manutenção de Equipamentos Industriais,TE0169,LUIZ SOARES JUNIOR,1,32h
+Engenharia de Energias e Meio Ambiente,2021,1,Termodinâmica Aplicada,TE0137,MARIA ALEXSANDRA DE SOUSA RIOS,1,64h
+Engenharia de Energias e Meio Ambiente,2021,1,Fontes de Energias Renováveis,TE0300,MONICA CASTELO GUIMARAES ALBUQUERQUE,1,64h
+Engenharia de Energias e Meio Ambiente,2021,1,TÓPICOS ESPECIAIS EM SISTEMAS DE ENERGIAS RENOVÁVEIS II,TE0308,MONICA CASTELO GUIMARAES ALBUQUERQUE,1,64h
+Engenharia de Energias e Meio Ambiente,2021,1,TRANSMISSÃO DE CALOR E MECÂNICA DOS FLUIDOS COMPUTACIONAL,TE0268,PAULO ALEXANDRE COSTA ROCHA,1,64h
+Engenharia de Energias e Meio Ambiente,2021,1,Dinâmica das Máquinas,TE0163,ROBERTO DE ARAUJO BEZERRA,3,64h
+Engenharia de Energias e Meio Ambiente,2021,1,MOTORES TERMICOS,TE0315,WILLIAM MAGALHAES BARCELLOS,1,64h
+Engenharia de Energias e Meio Ambiente,2021,2,ENERGIA SOLAR TÉRMICA,TE0313,ANA FABIOLA LEITE ALMEIDA,1,64h
+Engenharia de Energias e Meio Ambiente,2021,2,FILMES FINOS DE SEMICONDUTORES,TE0317,ANA FABIOLA LEITE ALMEIDA,1,64h
+Engenharia de Energias e Meio Ambiente,2021,2,AERODINÂMICA,TE0304,CARLA FREITAS DE ANDRADE,1,96h
+Engenharia de Energias e Meio Ambiente,2021,2,TÓPICOS ESPECIAIS EM SISTEMAS TÉRMICOS II,TE0306,CARLA FREITAS DE ANDRADE,1,64h
+Engenharia de Energias e Meio Ambiente,2021,2,SISTEMAS MECÂNICOS PARA ENERGIA DAS MARÉS,TE0266,CARLOS ANDRE DIAS BEZERRA,1,64h
+Engenharia de Energias e Meio Ambiente,2021,2,MÁQUINAS DE FLUXO EM PROCESSOS,TE0319,CLAUS FRANZ WEHMANN,1,64h
+Engenharia de Energias e Meio Ambiente,2021,2,ELEVAÇÃO DE PETRÓLEO,TE0318,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1,64h
+Engenharia de Energias e Meio Ambiente,2021,2,Manutenção de Equipamentos Industriais,TE0169,FRANCISCO ELICIVALDO LIMA,1,32h
+Engenharia de Energias e Meio Ambiente,2021,2,DINÂMICA DAS MÁQUINAS PARA ENERGIAS RENOVÁVEIS,TE0312,FRANCISCO ILSON DA SILVA JUNIOR,1,96h
+Engenharia de Energias e Meio Ambiente,2021,2,MECÂNICA DOS SÓLIDOS EM ENGENHARIA DE ENERGIAS RENOVÁVEIS,TE0302,FRANCISCO ILSON DA SILVA JUNIOR,1,64h
+Engenharia de Energias e Meio Ambiente,2021,2,ANÁLISE DE SISTEMAS TERMICOS,TE0303,FRANCISCO NIVALDO AGUIAR FREIRE,1,96h
+Engenharia de Energias e Meio Ambiente,2021,2,Manutenção de Equipamentos Industriais,TE0169,LUIZ SOARES JUNIOR,2,32h
+Engenharia de Energias e Meio Ambiente,2021,2,ANÁLISE DE SISTEMAS TERMICOS,TE0303,MONICA CASTELO GUIMARAES ALBUQUERQUE,2,96h
+Engenharia de Energias e Meio Ambiente,2021,2,SISTEMAS DE COMBUSTÃO APLICADO À BIOMASSA,TE0314,MONICA CASTELO GUIMARAES ALBUQUERQUE,1,96h
+Engenharia de Energias e Meio Ambiente,2021,2,TERMODINÂMICA APLICADA AS EEMA,TE1003,WILLIAM MAGALHAES BARCELLOS,1,64h
+Engenharia de Energias e Meio Ambiente,2021,2,TERMODINÂMICA APLICADA AS EEMA,TE1003,WILLIAM MAGALHAES BARCELLOS,2,64h
+Engenharia de Energias e Meio Ambiente,2022,1,LABORATÓRIO DE ENERGIAS RENOVÁVEIS,TE0263,ANA FABIOLA LEITE ALMEIDA,1,64h
+Engenharia de Energias e Meio Ambiente,2022,1,Máquinas de Fluxo,TE0154,CARLA FREITAS DE ANDRADE,4,64h
+Engenharia de Energias e Meio Ambiente,2022,1,SISTEMAS MECÂNICOS PARA ENERGIA EÓLICA,TE0311,CARLA FREITAS DE ANDRADE,1,64h
+Engenharia de Energias e Meio Ambiente,2022,1,TRANSMISSÃO DE CALOR E MECÂNICA DOS FLUIDOS COMPUTACIONAL,TE0268,CLAUS FRANZ WEHMANN,1,64h
+Engenharia de Energias e Meio Ambiente,2022,1,Fontes de Energias Renováveis,TE0300,FERNANDA LEITE LOBO,2,64h
+Engenharia de Energias e Meio Ambiente,2022,1,Manutenção de Equipamentos Industriais,TE0169,FRANCISCO ELICIVALDO LIMA,2,32h
+Engenharia de Energias e Meio Ambiente,2022,1,MECANISMOS APLICADOS,TE0265,FRANCISCO ILSON DA SILVA JUNIOR,1,64h
+Engenharia de Energias e Meio Ambiente,2022,1,TÓPICOS ESPECIAIS EM SISTEMAS MECÂNICOS II,TE0310,FRANCISCO ILSON DA SILVA JUNIOR,1,64h
+Engenharia de Energias e Meio Ambiente,2022,1,TÓPICOS ESPECIAIS EM SISTEMAS DE ENERGIAS RENOVÁVEIS II,TE0308,FRANCISCO NIVALDO AGUIAR FREIRE,2,64h
+Engenharia de Energias e Meio Ambiente,2022,1,Manutenção de Equipamentos Industriais,TE0169,LUIZ SOARES JUNIOR,1,32h
+Engenharia de Energias e Meio Ambiente,2022,1,Fontes de Energias Renováveis,TE0300,MONICA CASTELO GUIMARAES ALBUQUERQUE,1,64h
+Engenharia de Energias e Meio Ambiente,2022,1,TÓPICOS ESPECIAIS EM SISTEMAS DE ENERGIAS RENOVÁVEIS II,TE0308,MONICA CASTELO GUIMARAES ALBUQUERQUE,1,64h
+Engenharia de Energias e Meio Ambiente,2022,1,MOTORES TERMICOS,TE0315,WILLIAM MAGALHAES BARCELLOS,1,64h
+Engenharia de Energias e Meio Ambiente,2022,1,Transmissão de Calor,TE0158,WILLIAM MAGALHAES BARCELLOS,3,96h
+Engenharia de Energias e Meio Ambiente,2022,2,ENERGIA SOLAR TÉRMICA,TE0313,ANA FABIOLA LEITE ALMEIDA,1,64h
+Engenharia de Energias e Meio Ambiente,2022,2,Fontes de Energias Renováveis,TE0300,ANA FABIOLA LEITE ALMEIDA,1,64h
+Engenharia de Energias e Meio Ambiente,2022,2,AERODINÂMICA,TE0304,CLAUS FRANZ WEHMANN (32h) e CARLA FREITAS DE ANDRADE (64h),1,96h
+Engenharia de Energias e Meio Ambiente,2022,2,TÓPICOS ESPECIAIS EM SISTEMAS TÉRMICOS I,TE0305,CARLA FREITAS DE ANDRADE,1,32h
+Engenharia de Energias e Meio Ambiente,2022,2,MÁQUINAS DE FLUXO EM PROCESSOS,TE0319,CLAUS FRANZ WEHMANN,1,64h
+Engenharia de Energias e Meio Ambiente,2022,2,ELEVAÇÃO DE PETRÓLEO,TE0318,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1,64h
+Engenharia de Energias e Meio Ambiente,2022,2,DINÂMICA DAS MÁQUINAS PARA ENERGIAS RENOVÁVEIS,TE0312,FRANCISCO ILSON DA SILVA JUNIOR,1,96h
+Engenharia de Energias e Meio Ambiente,2022,2,MECÂNICA DOS SÓLIDOS EM ENGENHARIA DE ENERGIAS RENOVÁVEIS,TE0302,FRANCISCO ILSON DA SILVA JUNIOR,1,64h
+Engenharia de Energias e Meio Ambiente,2022,2,MECANISMOS APLICADOS,TE0265,FRANCISCO ILSON DA SILVA JUNIOR,1,64h
+Engenharia de Energias e Meio Ambiente,2022,2,ANÁLISE DE SISTEMAS TERMICOS,TE0303,FRANCISCO NIVALDO AGUIAR FREIRE,1,96h
+Engenharia de Energias e Meio Ambiente,2022,2,SISTEMAS MECÂNICOS PARA ENERGIA DAS MARÉS,TE0266,FRANCISCO NIVALDO AGUIAR FREIRE,1,64h
+Engenharia de Energias e Meio Ambiente,2022,2,FUNDAMENTOS DA ENGENHARIA DE GAS NATURAL,TE0212,LUIS GLAUBER RODRIGUES,1,64h
+Engenharia de Energias e Meio Ambiente,2022,2,Manutenção de Equipamentos Industriais,TE0169,LUIZ SOARES JUNIOR,1,32h
+Engenharia de Energias e Meio Ambiente,2022,2,ANÁLISE DE SISTEMAS TERMICOS,TE0303,MONICA CASTELO GUIMARAES ALBUQUERQUE,2,96h
+Engenharia de Energias e Meio Ambiente,2022,2,SISTEMAS DE COMBUSTÃO APLICADO À BIOMASSA,TE0314,MONICA CASTELO GUIMARAES ALBUQUERQUE,1,96h
+Engenharia de Energias e Meio Ambiente,2022,2,Instrumentação,TE0160,ROMULO DO NASCIMENTO RODRIGUES,1,64h
+Engenharia de Energias e Meio Ambiente,2022,2,Máquinas de Fluxo,TE0154,VANJA FONTENELE NUNES,1,64h
+Engenharia de Energias e Meio Ambiente,2022,2,TRANSMISSÃO DE CALOR E MECÂNICA DOS FLUIDOS COMPUTACIONAL,TE0268,VANJA FONTENELE NUNES,1,64h
+Engenharia de Energias e Meio Ambiente,2022,2,TERMODINÂMICA APLICADA AS EEMA,TE1003,WILLIAM MAGALHAES BARCELLOS,1,64h
+Engenharia de Energias e Meio Ambiente,2022,2,TERMODINÂMICA APLICADA AS EEMA,TE1003,WILLIAM MAGALHAES BARCELLOS,2,64h
+Engenharia de Energias e Meio Ambiente,2023,1,Fontes de Energias Renováveis,TE0300,ANA FABIOLA LEITE ALMEIDA,2,64h
+Engenharia de Energias e Meio Ambiente,2023,1,LABORATÓRIO DE ENERGIAS RENOVÁVEIS,TE0263,ANA FABIOLA LEITE ALMEIDA,1,64h
+Engenharia de Energias e Meio Ambiente,2023,1,Máquinas de Fluxo,TE0154,CARLA FREITAS DE ANDRADE,3,64h
+Engenharia de Energias e Meio Ambiente,2023,1,SISTEMAS MECÂNICOS PARA ENERGIA EÓLICA,TE0311,CARLA FREITAS DE ANDRADE,1,64h
+Engenharia de Energias e Meio Ambiente,2023,1,TRANSMISSÃO DE CALOR E MECÂNICA DOS FLUIDOS COMPUTACIONAL,TE0268,CLAUS FRANZ WEHMANN,2,64h
+Engenharia de Energias e Meio Ambiente,2023,1,Termodinâmica Aplicada,TE0137,CLODOALDO DE OLIVEIRA CARVALHO FILHO (32h) e MARIA ALEXSANDRA DE SOUSA RIOS (64h),1,64h
+Engenharia de Energias e Meio Ambiente,2023,1,MECANISMOS APLICADOS,TE0265,FRANCISCO ILSON DA SILVA JUNIOR,1,64h
+Engenharia de Energias e Meio Ambiente,2023,1,TÓPICOS ESPECIAIS EM SISTEMAS MECÂNICOS II,TE0310,FRANCISCO ILSON DA SILVA JUNIOR,1,64h
+Engenharia de Energias e Meio Ambiente,2023,1,TÓPICOS ESPECIAIS EM SISTEMAS DE ENERGIAS RENOVÁVEIS II,TE0308,FRANCISCO NIVALDO AGUIAR FREIRE,1,64h
+Engenharia de Energias e Meio Ambiente,2023,1,Manutenção de Equipamentos Industriais,TE0169,LUIZ SOARES JUNIOR,2,32h
+Engenharia de Energias e Meio Ambiente,2023,1,Fontes de Energias Renováveis,TE0300,MONICA CASTELO GUIMARAES ALBUQUERQUE,1,64h
+Engenharia de Energias e Meio Ambiente,2023,1,SISTEMAS DE COMBUSTÃO APLICADO À BIOMASSA,TE0314,MONICA CASTELO GUIMARAES ALBUQUERQUE,1,96h
+Engenharia de Energias e Meio Ambiente,2023,1,TÓPICOS ESPECIAIS EM SISTEMAS DE ENERGIAS RENOVÁVEIS II,TE0308,MONICA CASTELO GUIMARAES ALBUQUERQUE,3,64h
+Engenharia de Energias e Meio Ambiente,2023,1,Dinâmica das Máquinas,TE0163,ROBERTO DE ARAUJO BEZERRA,1,64h
+Engenharia de Energias e Meio Ambiente,2023,1,Dinâmica das Máquinas,TE0163,VANESSA VIEIRA GONCALVES,2,64h
+Engenharia de Energias e Meio Ambiente,2023,1,Transmissão de Calor,TE0158,WILLIAM MAGALHAES BARCELLOS,1,96h
+Engenharia de Energias e Meio Ambiente,2023,1,Transmissão de Calor,TE0158,WILLIAM MAGALHAES BARCELLOS,2,96h
+Engenharia de Energias e Meio Ambiente,2023,2,ENERGIA SOLAR TÉRMICA,TE0313,ANA FABIOLA LEITE ALMEIDA,1,64h
+Engenharia de Energias e Meio Ambiente,2023,2,FILMES FINOS DE SEMICONDUTORES,TE0317,ANA FABIOLA LEITE ALMEIDA,1,64h
+Engenharia de Energias e Meio Ambiente,2023,2,Fontes de Energias Renováveis,TE0300,ANA FABIOLA LEITE ALMEIDA,1,64h
+Engenharia de Energias e Meio Ambiente,2023,2,AERODINÂMICA,TE0304,CLAUS FRANZ WEHMANN (32h) e CARLA FREITAS DE ANDRADE (64h),1,96h
+Engenharia de Energias e Meio Ambiente,2023,2,TÓPICOS ESPECIAIS EM SISTEMAS TÉRMICOS I,TE0305,CARLA FREITAS DE ANDRADE,1,32h
+Engenharia de Energias e Meio Ambiente,2023,2,MÁQUINAS DE FLUXO EM PROCESSOS,TE0319,CLAUS FRANZ WEHMANN,1,64h
+Engenharia de Energias e Meio Ambiente,2023,2,ELEVAÇÃO DE PETRÓLEO,TE0318,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1,64h
+Engenharia de Energias e Meio Ambiente,2023,2,Instrumentação,TE0160,FLAVISON DE ALMADA VIEIRA,2,64h
+Engenharia de Energias e Meio Ambiente,2023,2,DINÂMICA DAS MÁQUINAS PARA ENERGIAS RENOVÁVEIS,TE0312,FRANCISCO ILSON DA SILVA JUNIOR,1,96h
+Engenharia de Energias e Meio Ambiente,2023,2,MECÂNICA DOS SÓLIDOS EM ENGENHARIA DE ENERGIAS RENOVÁVEIS,TE0302,FRANCISCO ILSON DA SILVA JUNIOR,1,64h
+Engenharia de Energias e Meio Ambiente,2023,2,SISTEMAS MECÂNICOS PARA ENERGIA DAS MARÉS,TE0266,FRANCISCO NIVALDO AGUIAR FREIRE,1,64h
+Engenharia de Energias e Meio Ambiente,2023,2,FUNDAMENTOS DA ENGENHARIA DE GAS NATURAL,TE0212,LUIS GLAUBER RODRIGUES,1,64h
+Engenharia de Energias e Meio Ambiente,2023,2,Manutenção de Equipamentos Industriais,TE0169,LUIZ SOARES JUNIOR,2,32h
+Engenharia de Energias e Meio Ambiente,2023,2,TÓPICOS ESPECIAIS EM SISTEMAS DE ENERGIAS RENOVÁVEIS II,TE0308,MARIA ALEXSANDRA DE SOUSA RIOS,1,64h
+Engenharia de Energias e Meio Ambiente,2023,2,ANÁLISE DE SISTEMAS TERMICOS,TE0303,MONICA CASTELO GUIMARAES ALBUQUERQUE,2,96h
+Engenharia de Energias e Meio Ambiente,2023,2,SISTEMAS DE COMBUSTÃO APLICADO À BIOMASSA,TE0314,MONICA CASTELO GUIMARAES ALBUQUERQUE,1,96h
+Engenharia de Energias e Meio Ambiente,2023,2,TERMODINÂMICA APLICADA AS EEMA,TE1003,WILLIAM MAGALHAES BARCELLOS,3,64h
+Engenharia de Energias e Meio Ambiente,2023,2,TERMODINÂMICA APLICADA AS EEMA,TE1003,WILLIAM MAGALHAES BARCELLOS,4,64h
+Engenharia de Energias e Meio Ambiente,2024,1,Fontes de Energias Renováveis,TE0300,AMANDA PEREIRA MONTEIRO,3A,64h
+Engenharia de Energias e Meio Ambiente,2024,1,TÓPICOS ESPECIAIS EM SISTEMAS DE ENERGIAS RENOVÁVEIS II,TE0308,AMANDA PEREIRA MONTEIRO,4,64h
+Engenharia de Energias e Meio Ambiente,2024,1,Fontes de Energias Renováveis,TE0300,ANA FABIOLA LEITE ALMEIDA,2,64h
+Engenharia de Energias e Meio Ambiente,2024,1,LABORATÓRIO DE ENERGIAS RENOVÁVEIS,TE0263,ANA FABIOLA LEITE ALMEIDA,1,64h
+Engenharia de Energias e Meio Ambiente,2024,1,Máquinas de Fluxo,TE0154,CARLA FREITAS DE ANDRADE,2,64h
+Engenharia de Energias e Meio Ambiente,2024,1,SISTEMAS MECÂNICOS PARA ENERGIA EÓLICA,TE0311,CARLA FREITAS DE ANDRADE,1,64h
+Engenharia de Energias e Meio Ambiente,2024,1,PRINCÍPIOS DE PROCESSOS BIOQUÍMICOS,TE0422,FERNANDA LEITE LOBO,1A,64h
+Engenharia de Energias e Meio Ambiente,2024,1,Manutenção de Equipamentos Industriais,TE0169,FRANCISCO ELICIVALDO LIMA,1,32h
+Engenharia de Energias e Meio Ambiente,2024,1,MECANISMOS APLICADOS,TE0265,FRANCISCO ILSON DA SILVA JUNIOR,1,64h
+Engenharia de Energias e Meio Ambiente,2024,1,TÓPICOS ESPECIAIS EM SISTEMAS MECÂNICOS II,TE0310,FRANCISCO ILSON DA SILVA JUNIOR,1,64h
+Engenharia de Energias e Meio Ambiente,2024,1,TÓPICOS ESPECIAIS EM SISTEMAS DE ENERGIAS RENOVÁVEIS II,TE0308,FRANCISCO NIVALDO AGUIAR FREIRE,1,64h
+Engenharia de Energias e Meio Ambiente,2024,1,ANÁLISE DE SISTEMAS TERMICOS,TE0303,MONICA CASTELO GUIMARAES ALBUQUERQUE,1,96h
+Engenharia de Energias e Meio Ambiente,2024,1,Fontes de Energias Renováveis,TE0300,MONICA CASTELO GUIMARAES ALBUQUERQUE,1,64h
+Engenharia de Energias e Meio Ambiente,2024,1,TÓPICOS ESPECIAIS EM SISTEMAS DE ENERGIAS RENOVÁVEIS II,TE0308,MONICA CASTELO GUIMARAES ALBUQUERQUE,3,64h
+Engenharia de Energias e Meio Ambiente,2024,1,TRANSMISSÃO DE CALOR E MECÂNICA DOS FLUIDOS COMPUTACIONAL,TE0268,PAULO ALEXANDRE COSTA ROCHA,1,64h
+Engenharia de Energias e Meio Ambiente,2024,1,MECÂNICA DOS SOLIDOS,TE0146,VANESSA VIEIRA GONCALVES,1A,64h
+Engenharia de Energias e Meio Ambiente,2024,1,MOTORES TERMICOS,TE0315,WILLIAM MAGALHAES BARCELLOS,1,64h
+Engenharia de Energias e Meio Ambiente,2024,1,Transmissão de Calor,TE0158,WILLIAM MAGALHAES BARCELLOS,2,96h
+Engenharia de Energias e Meio Ambiente,2024,2,CIRCUITOS ELÉTRICOS PARA ENERGIAS RENOVÁVEIS,TE0427,AMANDA PEREIRA MONTEIRO,1A,64h
+Engenharia de Energias e Meio Ambiente,2024,2,Fontes de Energias Renováveis,TE0300,AMANDA PEREIRA MONTEIRO,1A,64h
+Engenharia de Energias e Meio Ambiente,2024,2,TÓPICOS ESPECIAIS EM SISTEMAS DE ENERGIAS RENOVÁVEIS II,TE0308,AMANDA PEREIRA MONTEIRO,1,64h
+Engenharia de Energias e Meio Ambiente,2024,2,ENERGIA SOLAR TÉRMICA,TE0313,ANA FABIOLA LEITE ALMEIDA,2,64h
+Engenharia de Energias e Meio Ambiente,2024,2,FILMES FINOS DE SEMICONDUTORES,TE0317,ANA FABIOLA LEITE ALMEIDA,2A,64h
+Engenharia de Energias e Meio Ambiente,2024,2,AERODINÂMICA,TE0304,CARLA FREITAS DE ANDRADE,1,96h
+Engenharia de Energias e Meio Ambiente,2024,2,ELEVAÇÃO DE PETRÓLEO,TE0318,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1,64h
+Engenharia de Energias e Meio Ambiente,2024,2,Instrumentação,TE0160,EDILSON DIAS SIQUEIRA (32h) e LUIZ SOARES JUNIOR (32h),1,64h
+Engenharia de Energias e Meio Ambiente,2024,2,DINÂMICA DAS MÁQUINAS PARA ENERGIAS RENOVÁVEIS,TE0312,FRANCISCO ILSON DA SILVA JUNIOR,1,96h
+Engenharia de Energias e Meio Ambiente,2024,2,MECÂNICA DOS SÓLIDOS EM ENGENHARIA DE ENERGIAS RENOVÁVEIS,TE0302,FRANCISCO ILSON DA SILVA JUNIOR,1,64h
+Engenharia de Energias e Meio Ambiente,2024,2,MECANISMOS APLICADOS,TE0265,FRANCISCO ILSON DA SILVA JUNIOR,1,64h
+Engenharia de Energias e Meio Ambiente,2024,2,SISTEMAS MECÂNICOS PARA ENERGIA DAS MARÉS,TE0266,FRANCISCO NIVALDO AGUIAR FREIRE,2,64h
+Engenharia de Energias e Meio Ambiente,2024,2,Manutenção de Equipamentos Industriais,TE0169,LUIZ SOARES JUNIOR,2,32h
+Engenharia de Energias e Meio Ambiente,2024,2,TERMODINÂMICA APLICADA,TE0402,MARIA ALEXSANDRA DE SOUSA RIOS,1A,64h
+Engenharia de Energias e Meio Ambiente,2024,2,ANÁLISE DE SISTEMAS TERMICOS,TE0303,MONICA CASTELO GUIMARAES ALBUQUERQUE,1,96h
+Engenharia de Energias e Meio Ambiente,2024,2,SISTEMAS DE COMBUSTÃO APLICADO À BIOMASSA,TE0314,MONICA CASTELO GUIMARAES ALBUQUERQUE,1,96h
+Engenharia de Energias e Meio Ambiente,2024,2,TERMODINÂMICA APLICADA AS EEMA,TE1003,WILLIAM MAGALHAES BARCELLOS,1,64h
+Engenharia de Energias e Meio Ambiente,2024,2,TERMODINÂMICA APLICADA AS EEMA,TE1003,WILLIAM MAGALHAES BARCELLOS,2,64h
+Engenharia de Energias e Meio Ambiente,2025,1,ANÁLISE DE SISTEMAS TERMICOS,TE0303,MONICA CASTELO GUIMARAES ALBUQUERQUE,1,96h
+Engenharia de Energias e Meio Ambiente,2025,1,FILMES FINOS DE SEMICONDUTORES,TE0317,ANA FABIOLA LEITE ALMEIDA,1A,64h
+Engenharia de Energias e Meio Ambiente,2025,1,Fontes de Energias Renováveis,TE0300,AMANDA PEREIRA MONTEIRO,1A,64h
+Engenharia de Energias e Meio Ambiente,2025,1,LABORATÓRIO DE ENERGIAS RENOVÁVEIS,TE0263,AMANDA PEREIRA MONTEIRO,1,64h
+Engenharia de Energias e Meio Ambiente,2025,1,Manutenção de Equipamentos Industriais,TE0169,FRANCISCO ELICIVALDO LIMA,1,32h
+Engenharia de Energias e Meio Ambiente,2025,1,Máquinas de Fluxo,TE0154,FERNANDA LEITE LOBO,1A,64h
+Engenharia de Energias e Meio Ambiente,2025,1,Máquinas de Fluxo,TE0154,CARLA FREITAS DE ANDRADE,2A,64h
+Engenharia de Energias e Meio Ambiente,2025,1,MECANISMOS APLICADOS,TE0265,FRANCISCO ILSON DA SILVA JUNIOR,1,64h
+Engenharia de Energias e Meio Ambiente,2025,1,MOTORES TERMICOS,TE0315,WILLIAM MAGALHAES BARCELLOS,1,64h
+Engenharia de Energias e Meio Ambiente,2025,1,SISTEMAS MECÂNICOS PARA ENERGIA EÓLICA,TE0311,CARLA FREITAS DE ANDRADE,11,64h
+Engenharia de Energias e Meio Ambiente,2025,1,Transmissão de Calor,TE0158,FRANCISCO NIVALDO AGUIAR FREIRE,2,96h
+Engenharia de Energias e Meio Ambiente,2025,1,TRANSMISSÃO DE CALOR E MECÂNICA DOS FLUIDOS COMPUTACIONAL,TE0268,FRANCISCO NIVALDO AGUIAR FREIRE,1,64h
+Engenharia de Energias e Meio Ambiente,2025,2,LABORATÓRIO DE ENERGIAS RENOVÁVEIS,TE0263,AMANDA PEREIRA MONTEIRO,1,64h
+Engenharia de Energias e Meio Ambiente,2025,2,TÓPICOS ESPECIAIS EM SISTEMAS DE ENERGIAS RENOVÁVEIS II,TE0308,AMANDA PEREIRA MONTEIRO,1,64h
+Engenharia de Energias e Meio Ambiente,2025,2,TRANSMISSÃO DE CALOR E MECÂNICA DOS FLUIDOS COMPUTACIONAL,TE0268,ANA FABIOLA LEITE ALMEIDA,1,64h
+Engenharia de Energias e Meio Ambiente,2025,2,TERMODINÂMICA APLICADA AS EEMA,TE1003,ANDRE VALENTE BUENO (32h) e CLODOALDO DE OLIVEIRA CARVALHO FILHO (32h),2,64h
+Engenharia de Energias e Meio Ambiente,2025,2,AERODINÂMICA,TE0304,CARLA FREITAS DE ANDRADE,1,96h
+Engenharia de Energias e Meio Ambiente,2025,2,ELEVAÇÃO DE PETRÓLEO,TE0318,CLODOALDO DE OLIVEIRA CARVALHO FILHO,1,64h
+Engenharia de Energias e Meio Ambiente,2025,2,Dinâmica dos Fluidos I,TE0273,FERNANDA LEITE LOBO,1A,64h
+Engenharia de Energias e Meio Ambiente,2025,2,MÁQUINAS DE FLUXO EM PROCESSOS,TE0319,FERNANDA LEITE LOBO,1,64h
+Engenharia de Energias e Meio Ambiente,2025,2,DINÂMICA DAS MÁQUINAS PARA ENERGIAS RENOVÁVEIS,TE0312,FRANCISCO ILSON DA SILVA JUNIOR,1,96h
+Engenharia de Energias e Meio Ambiente,2025,2,SISTEMAS MECÂNICOS PARA ENERGIA DAS MARÉS,TE0266,FRANCISCO NIVALDO AGUIAR FREIRE,1,64h
+Engenharia de Energias e Meio Ambiente,2025,2,Manutenção de Equipamentos Industriais,TE0169,LUIZ SOARES JUNIOR,1,32h
+Engenharia de Energias e Meio Ambiente,2025,2,SISTEMAS DE COMBUSTÃO APLICADO À BIOMASSA,TE0314,MONICA CASTELO GUIMARAES ALBUQUERQUE,1,96h
+Engenharia de Energias e Meio Ambiente,2025,2,Instrumentação,TE0160,ROMULO DO NASCIMENTO RODRIGUES,1,64h
+Mestrado,2022,1,ENERGIA SOLAR,TEP7399,ANA FABIOLA LEITE ALMEIDA,,48h
+Mestrado,2023,1,ENERGIA SOLAR,TEP7399,ANA FABIOLA LEITE ALMEIDA,,48h
+Mestrado,2024,1,ENERGIA SOLAR,TEP7399,ANA FABIOLA LEITE ALMEIDA,,48h
+Mestrado,2025,1,ENERGIA SOLAR,TEP7399,ANA FABIOLA LEITE ALMEIDA,,48h
+Mestrado,2021,1,EQUAÇÕES DIFERENCIAIS,TEP7411,ANDRE VALENTE BUENO,,48h
+Mestrado,2022,1,ESTUDOS ESPECIAIS II,TEP7433,ANDRE VALENTE BUENO,,48h
+Mestrado,2022,2,MÉTODOS NUMÉRICOS,TEP74500,ANDRE VALENTE BUENO,,48h
+Mestrado,2022,2,ESTUDOS ESPECIAIS IV,TEP7455,ANDRE VALENTE BUENO,,48h
+Mestrado,2023,1,ESTUDOS ESPECIAIS II,TEP7433,ANDRE VALENTE BUENO,,48h
+Mestrado,2024,2,FUNDAMENTOS DA COMBUSTÃO,TEP7477,ANDRE VALENTE BUENO,,48h
+Mestrado,2022,2,ESTUDOS ESPECIAIS I,TEP7409,CARLA FREITAS DE ANDRADE,,48h
+Mestrado,2023,1,METODOLOGIA DA PESQUISA,TEP7499,CARLA FREITAS DE ANDRADE,,32h
+Mestrado,2024,1,METODOLOGIA DA PESQUISA,TEP7499,CARLA FREITAS DE ANDRADE,,32h
+Mestrado,2024,2,METODOLOGIA DA PESQUISA,TEP7499,CARLA FREITAS DE ANDRADE,,32h
+Mestrado,2021,2,ESTUDOS ESPECIAIS I,TEP7422,FERNANDA LEITE LOBO,,48h
+Mestrado,2022,1,ESTUDOS ESPECIAIS III,TEP7444,FERNANDA LEITE LOBO,,48h
+Mestrado,2023,1,ESTUDOS ESPECIAIS III,TEP7444,FERNANDA LEITE LOBO,,48h
+Mestrado,2021,1,ENERGIAS ALTERNATIVAS,TEP7400,FRANCISCO NIVALDO AGUIAR FREIRE,,48h
+Mestrado,2022,1,ENERGIAS ALTERNATIVAS,TEP7400,FRANCISCO NIVALDO AGUIAR FREIRE,,48h
+Mestrado,2022,2,TÓPICOS ESP. AVANÇADOS EM ENG. E CIÊNCIA DE MATERIAIS I,TEP7455,FRANCISCO NIVALDO AGUIAR FREIRE,,32h
+Mestrado,2023,1,ENERGIAS ALTERNATIVAS,TEP7400,FRANCISCO NIVALDO AGUIAR FREIRE,,48h
+Mestrado,2023,2,TÓPICOS ESP. AVANÇADOS EM ENG. E CIÊNCIA DE MATERIAIS II,TEP7466,FRANCISCO NIVALDO AGUIAR FREIRE,,32h
+Mestrado,2023,2,ESTÁGIO DE DOCÊNCIA II,TJP0195,FRANCISCO NIVALDO AGUIAR FREIRE,,64h
+Mestrado,2024,1,TÓPICOS ESPECIAIS EM ENGENHARIA E CIÊNCIA DE MATERIAIS,TJP7299,FRANCISCO NIVALDO AGUIAR FREIRE,,32h
+Mestrado,2024,1,ENERGIAS ALTERNATIVAS,TEP7400,FRANCISCO NIVALDO AGUIAR FREIRE,,48h
+Mestrado,2024,2,ESTUDOS ESPECIAIS I,TEP7422,FRANCISCO NIVALDO AGUIAR FREIRE,,48h
+Mestrado,2024,2,ESTÁGIO DE DOCÊNCIA III,TJP0212,FRANCISCO NIVALDO AGUIAR FREIRE,,64h
+Mestrado,2024,2,ESTÁGIO DE DOCÊNCIA II,TJP0195,FRANCISCO NIVALDO AGUIAR FREIRE,,64h
+Mestrado,2024,2,ENERGIAS ALTERNATIVAS,TEP7400,FRANCISCO NIVALDO AGUIAR FREIRE,,48h
+Mestrado,2025,1,TÓPICOS ESPECIAIS EM ENGENHARIA E CIÊNCIA DE MATERIAIS,TJP7299,FRANCISCO NIVALDO AGUIAR FREIRE,,32h
+Mestrado,2025,1,ESTÁGIO DE DOCÊNCIA III,TJP0212,FRANCISCO NIVALDO AGUIAR FREIRE,,64h
+Mestrado,2025,1,ESTÁGIO DE DOCÊNCIA II,TJP0195,FRANCISCO NIVALDO AGUIAR FREIRE,,64h
+Mestrado,2025,1,ENERGIAS ALTERNATIVAS,TEP7400,FRANCISCO NIVALDO AGUIAR FREIRE,,48h
+Mestrado,2025,1,ENERGIAS ALTERNATIVAS,TEP7400,FRANCISCO NIVALDO AGUIAR FREIRE,,64h
+Mestrado,2025,2,ENERGIAS ALTERNATIVAS,TEP7400,FRANCISCO NIVALDO AGUIAR FREIRE,,48h
+Mestrado,2021,1,SEMINÁRIO EM ENERGIAS ALTERNATIVAS,TEP7544,MARIA ALEXSANDRA DE SOUSA RIOS,,32h
+Mestrado,2022,1,SEMINÁRIO EM ENERGIAS ALTERNATIVAS,TEP7544,MARIA ALEXSANDRA DE SOUSA RIOS,,32h
+Mestrado,2022,1,ESTUDOS ESPECIAIS I,TEP7422,MARIA ALEXSANDRA DE SOUSA RIOS,,48h
+Mestrado,2022,2,ESTÁGIO DE DOCÊNCIA I,TEP7437,MARIA ALEXSANDRA DE SOUSA RIOS,,64h
+Mestrado,2023,1,SEMINÁRIO EM ENERGIAS ALTERNATIVAS,TEP7544,MARIA ALEXSANDRA DE SOUSA RIOS,,32h
+Mestrado,2024,1,SEMINÁRIO EM ENERGIAS ALTERNATIVAS,TEP7544,MARIA ALEXSANDRA DE SOUSA RIOS,,32h
+Mestrado,2024,1,ESTUDOS ESPECIAIS II,TEP7433,MARIA ALEXSANDRA DE SOUSA RIOS,,16h
+Mestrado,2024,2,SEMINÁRIO EM ENERGIAS ALTERNATIVAS,TEP7544,MARIA ALEXSANDRA DE SOUSA RIOS,,16h
+Mestrado,2025,1,METODOLOGIA DA PESQUISA,TEP7499,MARIA ALEXSANDRA DE SOUSA RIOS,,32h
+Mestrado,2025,2,TÓPICOS ESPECIAIS EM ENGENHARIA E CIÊNCIA DE MATERIAIS,TEP7299,MARIA ALEXSANDRA DE SOUSA RIOS,,32h
+Mestrado,2025,2,ESTUDOS ESPECIAIS I,TEP7422,MARIA ALEXSANDRA DE SOUSA RIOS,,48h
+Mestrado,2025,2,ESTÁGIO DE DOCÊNCIA II,TJP0195,MARIA ALEXSANDRA DE SOUSA RIOS,,64h
+Mestrado,2025,2,ESTÁGIO DE DOCÊNCIA I,TJP0162,MARIA ALEXSANDRA DE SOUSA RIOS,,64h
+Mestrado,2025,2,ESTÁGIO DE DOCÊNCIA III,TJP0212,MARIA ALEXSANDRA DE SOUSA RIOS,,64h
+Mestrado,2021,2,MÉTODOS NUMÉRICOS,TEP7500,PAULO ALEXANDRE COSTA ROCHA,,32h
+Mestrado,2023,2,MÉTODOS NUMÉRICOS,TEP7500,PAULO ALEXANDRE COSTA ROCHA,,32h
+Mestrado,2024,2,MÉTODOS NUMÉRICOS,TEP7500,PAULO ALEXANDRE COSTA ROCHA,,32h
+Mestrado,2025,2,MÉTODOS NUMÉRICOS,TEP7500,PAULO ALEXANDRE COSTA ROCHA,,32h
+Mestrado,2025,1,SEMINÁRIO EM ENERGIAS ALTERNATIVAS,TEP7544,PAULO ALEXANDRE COSTA ROCHA,,32h
+Mestrado,2025,2,ESTUDOS ESPECIAIS II,TEP7422,ROMULO DO NASCIMENTO RODRIGUES,,48h
+Mestrado,2025,1,EQUAÇÕES DIFERENCIAIS,TEP7411,VANESSA VIEIRA GONCALVES,,48h
